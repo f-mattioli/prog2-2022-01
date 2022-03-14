@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(200, 200, 200);
+}
+
+.dark-background {
+    background-color: #101010;
+}
+
+
+h1 {
+    color: blue;
+    font-size: 12px;
+}
+
+p {
+    color: red;
+    text-align: center;
+}
+
+#titulo {
+    text-align: center;
+    font-size: 12px;
+}
+
+.it {
+    font-style: italic;
+}
+
+.text-bold {
+    font-weight: bold;
+}
+

@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(200, 200, 200);
+}
+
+.dark-background {
+    background-color: #101010;
+}
+
+#titulo {
+    text-align: center;
+    font-size: 12px;
+}
+
+.it {
+    font-style: italic;
+}
+
+.text-bold {
+    font-weight: bold;
+}
+
+td, th {
+    border: 1px solid black;
+    text-align: center;
+}
+
+th {
+    background-color: #909090;
+    padding: 10px;
+}
+
+td {
+    padding: 5px;
+}
+
+table {
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.center-text {
+    text-align: center;
+}
